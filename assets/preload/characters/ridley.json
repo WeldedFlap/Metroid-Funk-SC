@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-250,
+				139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ridley_fnf idle"
+		},
+		{
+			"offsets": [
+				-262,
+				154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ridley_fnf left"
+		},
+		{
+			"offsets": [
+				-250,
+				133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ridley_fnf right"
+		},
+		{
+			"offsets": [
+				-250,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ridley_fnf down"
+		},
+		{
+			"offsets": [
+				-246,
+				171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ridley_fnf up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ridley_fnf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ridley-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		99,
+		155
+	],
+	"camera_position": [
+		-180,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "Samus",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		175,
+		31,
+		81
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"samus",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Norfair",
+			"samus-pixel",
+			[
+				175,
+				31,
+				81
+			]
+		],
+		[
+			"Golden Battle",
+			"torizo",
+			[
+				255,
+				222,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Samus",
+	"hiddenUntilUnlocked": false
+}

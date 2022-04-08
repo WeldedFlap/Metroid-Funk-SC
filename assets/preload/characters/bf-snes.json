@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-255,
+				-90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "boyfriend_fnf_snes idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-245,
+				-91
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "boyfriend_fnf_snes downMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-273,
+				-91
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "boyfriend_fnf_snes leftMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-248,
+				-91
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "boyfriend_fnf_snes rightMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-256,
+				-93
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "boyfriend_fnf_snes upMISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-231,
+				-91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "boyfriend_fnf_snes right"
+		},
+		{
+			"offsets": [
+				-256,
+				-91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "boyfriend_fnf_snes left"
+		},
+		{
+			"offsets": [
+				-276,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1
+			],
+			"name": "boyfriend_fnf_snes down"
+		},
+		{
+			"offsets": [
+				-261,
+				-91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1
+			],
+			"name": "boyfriend_fnf_snes up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/boyfriend_fnf_snes",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-snes-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		157,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 3.5
+}

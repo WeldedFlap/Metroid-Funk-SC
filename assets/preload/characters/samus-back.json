@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-161,
+				-241
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "samus_snes_back idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-243
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "samus_snes_back left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-250
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "samus_snes_back down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-173,
+				-240
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "samus_snes_back up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-240
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "samus_snes_back right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/samus_back",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ridley-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		99,
+		155
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 2.5
+}

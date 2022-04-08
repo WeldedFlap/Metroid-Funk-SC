@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "norfairStage",
+		"player1": "bf-snes",
+		"player2": "samus",
+		"player3": null,
+		"events": [
+			[
+				121416.522951706,
+				[
+					[
+						"Change Scroll Speed",
+						"1.25",
+						"0"
+					]
+				]
+			],
+			[
+				122064.671099854,
+				[
+					[
+						"Change Character",
+						"gf",
+						"ridley"
+					],
+					[
+						"Screen Shake",
+						"0.5, 0.04",
+						""
+					]
+				]
+			],
+			[
+				122157.263692447,
+				[
+					[
+						"Change Character",
+						"dad",
+						"samus-back"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-back"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Norfair"
+	}
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rocketselect.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rocketcursor0000" x="0" y="0" width="146" height="85" frameX="0" frameY="0" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0001" x="0" y="0" width="146" height="85" frameX="0" frameY="0" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0002" x="146" y="0" width="146" height="82" frameX="0" frameY="-3" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0003" x="146" y="0" width="146" height="82" frameX="0" frameY="-3" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0004" x="292" y="0" width="146" height="74" frameX="0" frameY="-11" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0005" x="292" y="0" width="146" height="74" frameX="0" frameY="-11" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0006" x="0" y="85" width="146" height="70" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0007" x="0" y="85" width="146" height="70" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0008" x="146" y="85" width="146" height="70" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0009" x="146" y="85" width="146" height="70" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0010" x="292" y="85" width="146" height="70" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0011" x="292" y="85" width="146" height="70" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0012" x="0" y="155" width="146" height="70" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0013" x="0" y="155" width="146" height="70" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0014" x="146" y="155" width="146" height="78" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0015" x="146" y="155" width="146" height="78" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0016" x="292" y="155" width="146" height="77" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0017" x="292" y="155" width="146" height="77" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0018" x="0" y="233" width="146" height="70" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+	<SubTexture name="rocketcursor0019" x="0" y="233" width="146" height="70" frameX="0" frameY="-15" frameWidth="146" frameHeight="93"/>
+</TextureAtlas>

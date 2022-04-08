@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "torizo_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "torizo_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "torizo_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "torizo_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "torizo_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/torizofnf_sprites",
+	"position": [
+		-50,
+		90
+	],
+	"healthicon": "torizo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		222,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

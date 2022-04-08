@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-130,
+				-241
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "samus_fnf idle"
+		},
+		{
+			"offsets": [
+				-122,
+				-246
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "samus_fnf left"
+		},
+		{
+			"offsets": [
+				-100,
+				-237
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "samus_fnf right"
+		},
+		{
+			"offsets": [
+				-110,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "samus_fnf down"
+		},
+		{
+			"offsets": [
+				-166,
+				-239
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "samus_fnf up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/samus_fnf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "samus-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		31,
+		81
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 2.5
+}

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ridley_fnf.png"><SubTexture name="ridley_fnf left0000" x="0" y="1120" width="382" height="348" frameX="-78" frameY="-86" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf left0001" x="382" y="1120" width="396" height="342" frameX="-82" frameY="-92" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf idle0000" x="852" y="370" width="436" height="368" frameX="-68" frameY="-68" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf idle0001" x="0" y="752" width="436" height="368" frameX="-68" frameY="-70" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf idle0002" x="436" y="752" width="432" height="368" frameX="-72" frameY="-68" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf idle0003" x="868" y="752" width="420" height="368" frameX="-76" frameY="-64" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf idle0004" x="1348" y="0" width="420" height="368" frameX="-76" frameY="-66" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf idle0005" x="1348" y="368" width="420" height="368" frameX="-76" frameY="-66" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf up0000" x="0" y="382" width="486" height="370" frameX="-44" frameY="-60" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf up0001" x="852" y="0" width="496" height="370" frameX="-38" frameY="-64" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf down0000" x="422" y="0" width="430" height="372" frameX="-68" frameY="-62" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf down0001" x="0" y="0" width="422" height="382" frameX="-70" frameY="-48" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf right0000" x="778" y="1120" width="408" height="342" frameX="-84" frameY="-94" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf right0001" x="1348" y="736" width="398" height="352" frameX="-84" frameY="-84" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf eyesappear0000" x="602" y="382" width="116" height="66" frameX="-228" frameY="-168" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf eyesappear0001" x="486" y="382" width="116" height="272" frameX="-228" frameY="-70" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf eyesappear0002" x="486" y="382" width="116" height="272" frameX="-228" frameY="-68" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf eyesappear0003" x="486" y="382" width="116" height="272" frameX="-228" frameY="-64" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf eyesappear0004" x="486" y="382" width="116" height="272" frameX="-228" frameY="-66" frameWidth="564" frameHeight="476" />
+<SubTexture name="ridley_fnf eyesappear0005" x="486" y="382" width="116" height="272" frameX="-228" frameY="-66" frameWidth="564" frameHeight="476" />
+</TextureAtlas>

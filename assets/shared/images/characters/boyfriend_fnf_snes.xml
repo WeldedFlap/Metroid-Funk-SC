@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boyfriend_fnf_snes.png"><SubTexture name="boyfriend_fnf_snes idle0000" x="0" y="490" width="118" height="106" frameX="-4" frameY="-34" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes idle0001" x="238" y="490" width="116" height="104" frameX="-6" frameY="-38" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes idle0002" x="530" y="0" width="114" height="108" frameX="-8" frameY="-34" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes idle0003" x="224" y="374" width="112" height="110" frameX="-12" frameY="-32" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes idle0004" x="412" y="120" width="110" height="116" frameX="-14" frameY="-26" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes down0000" x="118" y="490" width="120" height="106" frameX="-10" frameY="-36" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes down0001" x="336" y="374" width="118" height="110" frameX="-10" frameY="-32" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes left0000" x="412" y="236" width="102" height="116" frameX="-18" frameY="-26" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes left0001" x="0" y="374" width="104" height="116" frameX="-20" frameY="-26" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes up0000" x="100" y="0" width="100" height="126" frameX="-34" frameY="-16" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes up0001" x="0" y="252" width="102" height="122" frameX="-32" frameY="-20" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes right0000" x="102" y="252" width="110" height="120" frameX="-28" frameY="-22" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes right0001" x="212" y="252" width="110" height="120" frameX="-24" frameY="-22" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes downMISS0000" x="104" y="374" width="120" height="116" frameX="-10" frameY="-26" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes downMISS0001" x="412" y="0" width="118" height="120" frameX="-10" frameY="-22" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes leftMISS0000" x="0" y="128" width="102" height="124" frameX="-18" frameY="-18" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes leftMISS0002" x="102" y="128" width="104" height="124" frameX="-20" frameY="-18" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes upMISS0000" x="0" y="0" width="100" height="128" frameX="-34" frameY="-14" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes upMISS0001" x="200" y="0" width="102" height="126" frameX="-32" frameY="-16" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes rightMISS0000" x="302" y="0" width="110" height="124" frameX="-28" frameY="-18" frameWidth="144" frameHeight="148" />
+<SubTexture name="boyfriend_fnf_snes rightMISS0001" x="302" y="124" width="110" height="124" frameX="-24" frameY="-18" frameWidth="144" frameHeight="148" />
+</TextureAtlas>

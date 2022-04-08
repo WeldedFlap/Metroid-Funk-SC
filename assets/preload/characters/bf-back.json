@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-245,
+				-91
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf_snes_back downMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-273,
+				-91
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf_snes_back leftMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-248,
+				-91
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf_snes_back rightMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-256,
+				-93
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf_snes_back upMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-255,
+				-90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf_snes_back idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-231,
+				-91
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf_snes_back right",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-256,
+				-91
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf_snes_back left",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-276,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf_snes_back down",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-261,
+				-91
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf_snes_back up",
+			"indices": [
+				0,
+				1
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bf_snes_back",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "samus-and-bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		31,
+		81
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 3.5
+}
